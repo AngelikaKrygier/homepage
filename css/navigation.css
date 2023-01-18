@@ -1,0 +1,32 @@
+.navigation {
+    max-width: 1100px;
+    background-color: white;
+    box-shadow: 0px 0px 9px 4px #BCBCBC;
+
+}
+
+.navigation__header {
+    padding: 5px 20px;
+    font-size: 20px;
+    margin-bottom: -15px;
+    font-weight: 700;
+}
+
+.navigation__item {
+    list-style-type: none;
+    padding: 5px;
+    margin-left: -20px;
+    font-size: 18px;
+}
+
+.navigation__link {
+    color: black;
+    outline-style: none;
+    text-decoration: none;
+}
+
+.navigation__link:hover {
+    color: rgb(168, 5, 5);
+    border-bottom: 1px, solid;
+    outline: none;
+}

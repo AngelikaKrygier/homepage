@@ -1,0 +1,37 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+
+.body {
+    background-color: #fcfcff;
+    color: rgb(24, 24, 24);
+    max-width: 1000px;
+    margin: auto;
+    padding: 30px;
+    background-color: #e7e8ea;
+    font-family: 'Lato', sans-serif;
+    line-height: 2;
+    text-align: justify;
+}
+
+.body__font {
+    color: rgb(63 98 138);
+}
+
+.buttonChangeFont {
+    margin: auto;
+    font-size: 20px;
+    background-color: rgb(63 98 138);
+    padding: 10px;
+}
+
+.buttonChangeFont:hover {
+    background-color: rgba(158, 156, 156, 0.877);
+}

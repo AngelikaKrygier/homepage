@@ -1,0 +1,9 @@
+.header__tittle {
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(63 98 138);
+    font-weight: 700;
+    color: white;
+    text-shadow: 1px 2px 5px black;
+    box-shadow: 0px 0px 9px 10px #BCBCBC;
+}
