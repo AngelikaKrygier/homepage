@@ -17,11 +17,15 @@
     padding: 10px;
 }
 
+.table__cell:hover {
+    background-color: #dddddd;
+}
+
 .table__cell--color {
     background-color: rgb(63 98 138);
     color: #eee;
 }
 
 .table__cell--color:hover {
-    background-color: #dddddd;
+    background-color: rgb(63 98 138);
 }
